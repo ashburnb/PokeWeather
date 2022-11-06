@@ -1,8 +1,8 @@
 # Pokemon Weather App
 Sinatra app which determines weather-boosted pokemon from your zip code.
-<p>Created by Christina Mende and Bradley Ashburn</p>
-<p>STEM Warrior Hackathon</p>
-<p>January 2nd, 2022</p>
+Created by Brad Ashburn and Christina Mende
+STEM Warrior Hackathon
+January 2nd, 2022
 
 # Inspiration
 
@@ -34,4 +34,4 @@ We learned how to access data in APIs and how to build a web app. We also learne
 
 Right now, the weather function is limited to Zip codes in the US and we would like to expand the functionality to around the world.
 
-Built With Ruby, Sinatra, HTML/CSS/Javascript/Bootstrap
+# Built With Ruby, Sinatra, HTML/CSS/Javascript/Bootstrap
