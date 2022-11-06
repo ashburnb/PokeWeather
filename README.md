@@ -3,7 +3,8 @@ Sinatra app which determines weather-boosted pokemon from your zip code.
 <p>Created by Christina Mende and Bradley Ashburn</p>
 <p>STEM Warrior Hackathon</p>
 <p>January 2nd, 2022</p>
-Inspiration
+
+# Inspiration
 
 Since we are both active players of Pokemon Go we wanted to create a project centered around the game. We both independently came up with the idea of an app related to the weather boost feature in the game.
 
