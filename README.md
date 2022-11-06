@@ -1,8 +1,8 @@
 # Pokemon Weather App
-Sinatra app which determines weather-boosted pokemon from your zip code.
-Created by Brad Ashburn and Christina Mende
-STEM Warrior Hackathon
-January 2nd, 2022
+<p>Sinatra app which determines weather-boosted pokemon from your zip code.</p>
+<p>Created by Brad Ashburn and Christina Mende</p>
+<p>STEM Warrior Hackathon</p>
+<p>January 2nd, 2022</p>
 
 # Inspiration
 
